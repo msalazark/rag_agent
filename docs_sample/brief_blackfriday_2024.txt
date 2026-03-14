@@ -1,0 +1,88 @@
+BRIEF DE CAMPAÑA — BLACK FRIDAY 2024
+Tienda: Retail E-commerce Perú
+Estado: Ejecutado / Post-mortem
+
+─────────────────────────────────────────
+OBJETIVOS DE LA CAMPAÑA
+─────────────────────────────────────────
+
+Objetivo principal: Incrementar ventas digitales en 40% durante la semana del 25 al 30 de noviembre 2024.
+Objetivo secundario: Reactivar el 20% del segmento "Inactivos" (3,760 clientes al inicio del Q4).
+Presupuesto total asignado: S/. 48,000
+  - Google Ads:  S/. 22,000 (45.8%)
+  - Meta Ads:    S/. 14,000 (29.2%)
+  - Email:       S/.  4,000 (8.3%)
+  - Influencers: S/.  8,000 (16.7%)
+
+─────────────────────────────────────────
+RESULTADOS ALCANZADOS
+─────────────────────────────────────────
+
+Ventas durante campaña: S/. 387,420 (vs S/. 261,000 semana equivalente 2023 → +48.4%)
+ROAS global de campaña: 8.07x
+Nuevos clientes adquiridos: 1,840
+Clientes reactivados (segmento Inactivos): 687 (18.3% del objetivo)
+
+Resultados por canal:
+Canal        | Inversión  | Ingresos atrib.| ROAS   | Nuevos clientes
+-------------|------------|----------------|--------|----------------
+Google Ads   | S/. 22,000 | S/. 196,400    | 8.93x  | 920
+Meta Ads     | S/. 14,000 | S/. 98,400     | 7.03x  | 580
+Email        | S/.  4,000 | S/. 74,200     | 18.55x | 180
+Influencers  | S/.  8,000 | S/. 18,420     | 2.30x  | 160
+
+─────────────────────────────────────────
+APRENDIZAJES CLAVE
+─────────────────────────────────────────
+
+1. Email tuvo el ROAS más alto (18.55x) con el menor presupuesto. Para Black Friday 2025
+   se recomienda duplicar la inversión en email y reducir influencers.
+
+2. Los influencers tuvieron ROAS 2.30x, muy por debajo del objetivo (4.0x). 
+   El contenido no resonó con la audiencia de libros académicos. 
+   Acción: seleccionar influencers de nicho educativo, no lifestyle general.
+
+3. La segmentación de audiencias en Google Ads por historial de compra (RLSA) 
+   generó un CTR 2.4x mayor que audiencias frías.
+
+4. El email de "carrito abandonado" activado durante la campaña generó S/. 28,400 
+   adicionales no atribuidos al presupuesto de campaña.
+
+5. Categoría con mejor performance: Libros académicos (+62% vs semana base).
+   Categoría con peor performance: Electrónica (+12% vs semana base).
+
+─────────────────────────────────────────
+ESTRATEGIA DE RECOMENDACIONES DURANTE CAMPAÑA
+─────────────────────────────────────────
+
+Se activó el sistema de recomendación híbrido para los usuarios logueados durante 
+la semana de campaña. Resultados:
+
+- Usuarios con recomendaciones personalizadas: ticket promedio S/. 148 (+16% vs S/. 128 sin rec.)
+- CTR de módulo de recomendaciones: 8.4%
+- Conversión desde módulo de recomendaciones: 4.2% (vs 3.2% tasa general)
+- Categorías más recomendadas: Libros ficción, Papelería premium, Juguetes educativos
+
+Conclusión: el sistema de recomendación incrementó el ticket promedio en 16% durante 
+la campaña. Para Q1 2025 se recomienda activarlo de forma permanente para todos los 
+usuarios registrados.
+
+─────────────────────────────────────────
+PRESUPUESTO Q1 2025 RECOMENDADO
+─────────────────────────────────────────
+
+Basado en los resultados del Q4 y la proyección de ventas:
+
+Canal          | Presupuesto mensual | Cambio vs Q4
+---------------|---------------------|-------------
+Google Ads     | S/. 8,500           | +10%
+Meta Ads       | S/. 4,200           | -15%
+Email          | S/. 2,800           | +40%
+SEO/contenido  | S/. 3,500           | +20% (nuevo)
+Influencers    | S/. 1,500           | -62%
+TOTAL          | S/. 20,500          | -14% (eficiencia)
+
+El recorte en Influencers y Meta permite redirigir presupuesto a Email y SEO,
+canales con mayor ROAS histórico y menor CPA.
+
+Fin del brief.

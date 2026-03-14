@@ -1,0 +1,115 @@
+REPORTE DE VENTAS Q4 2024 — CRISOL LIBRERÍA PERÚ
+Período: Octubre – Diciembre 2024
+Elaborado por: Área de Analytics Digital
+
+─────────────────────────────────────────
+1. RESUMEN EJECUTIVO
+─────────────────────────────────────────
+
+Las ventas digitales del Q4 2024 alcanzaron S/. 1,847,320, representando un crecimiento del 23% 
+respecto al Q4 2023. El canal web concentró el 68% de las ventas digitales, seguido de la app 
+móvil con 32%.
+
+El ticket promedio se ubicó en S/. 127.40, con un crecimiento de 8% respecto al trimestre anterior.
+La tasa de conversión del sitio web fue de 3.2%, por encima del benchmark del sector (2.8%).
+
+─────────────────────────────────────────
+2. VENTAS POR CATEGORÍA
+─────────────────────────────────────────
+
+Categoría          | Ventas S/.   | % Total | Var. vs Q3
+-------------------|--------------|---------|------------
+Libros ficción     | 487,200      | 26.4%   | +18%
+Libros académicos  | 412,800      | 22.3%   | +31%
+Papelería premium  | 298,400      | 16.2%   | +12%
+Juguetes educativos| 276,500      | 15.0%   | +45%
+Libros infantiles  | 198,300      | 10.7%   | +22%
+Electrónica        | 174,120      |  9.4%   | +8%
+                   |              |         |
+TOTAL              | 1,847,320    | 100%    | +23%
+
+El crecimiento más destacado fue en Juguetes educativos (+45%), impulsado por la campaña 
+navideña "Regala aprendizaje" y la integración del sistema de recomendaciones personalizado.
+
+─────────────────────────────────────────
+3. SEGMENTOS DE CLIENTES
+─────────────────────────────────────────
+
+Análisis RFM del trimestre:
+
+Segmento     | N° Clientes | % Base  | Ingresos S/.  | Ticket Prom.
+-------------|-------------|---------|---------------|-------------
+Champions    | 1,240       | 8.3%    | 628,088       | S/. 507
+Leales       | 3,180       | 21.2%   | 509,836       | S/. 160
+En Riesgo    | 4,290       | 28.6%   | 387,544       | S/. 90
+Inactivos    | 3,760       | 25.1%   | 206,920       | S/. 55
+Nuevos       | 2,530       | 16.8%   | 114,932       | S/. 45
+
+Los Champions (8.3% de clientes) generan el 34% de los ingresos.
+La tasa de churn proyectada para el segmento "En Riesgo" es del 38% en Q1 2025.
+
+Acción de retención recomendada para "En Riesgo": campaña de win-back con cupón 15% 
+y recomendaciones personalizadas basadas en historial de compra.
+
+─────────────────────────────────────────
+4. CANALES DE ADQUISICIÓN
+─────────────────────────────────────────
+
+Canal             | Nuevos clientes | CPA S/.  | ROAS  | CVR
+------------------|-----------------|----------|-------|------
+Google Ads        | 1,840           | 28.40    | 4.2x  | 3.8%
+SEO Orgánico      | 1,290           | 0        | ∞     | 2.9%
+Email marketing   | 890             | 4.20     | 18.6x | 6.2%
+Meta Ads          | 720             | 34.80    | 2.8x  | 1.9%
+TikTok Ads        | 430             | 41.20    | 1.9x  | 1.4%
+Directo/referido  | 380             | 0        | ∞     | 4.1%
+
+El email marketing continúa siendo el canal de mayor ROAS (18.6x). 
+TikTok Ads muestra el CPA más alto y ROAS por debajo del objetivo (3.0x).
+Recomendación: reducir inversión en TikTok y redirigir a Google Ads + Email.
+
+─────────────────────────────────────────
+5. TOP 10 PRODUCTOS MÁS VENDIDOS
+─────────────────────────────────────────
+
+1. Atomic Habits (James Clear)           - 1,840 unidades - S/. 45
+2. El Principito (Saint-Exupéry)         - 1,620 unidades - S/. 28
+3. Harry Potter Colección 7 libros       - 980 unidades  - S/. 320
+4. Cien años de soledad (García Márquez) - 870 unidades  - S/. 45
+5. Cuaderno Moleskine A5 Classic         - 820 unidades  - S/. 89
+6. LEGO Classic Creative Bricks          - 740 unidades  - S/. 185
+7. Crayones Crayola 64 colores           - 690 unidades  - S/. 42
+8. La Biblia de Estudio (NVI)            - 650 unidades  - S/. 95
+9. Maletín Ejecutivo Samsonite           - 410 unidades  - S/. 280
+10. Smart TV Samsung 32" (demo)          - 380 unidades  - S/. 890
+
+─────────────────────────────────────────
+6. KPIs OPERACIONALES
+─────────────────────────────────────────
+
+Métrica                     | Q4 2024  | Q4 2023  | Variación
+----------------------------|----------|----------|----------
+Tasa de conversión web      | 3.2%     | 2.8%     | +0.4pp
+Tasa de abandono carrito    | 68.4%    | 74.2%    | -5.8pp
+Tiempo promedio en sitio    | 4m 32s   | 3m 48s   | +18.4%
+NPS digital                 | 72       | 64       | +8
+Devoluciones digitales      | 2.8%     | 4.1%     | -1.3pp
+Costo de envío promedio     | S/. 8.40 | S/. 9.20 | -8.7%
+
+La reducción en la tasa de abandono de carrito (-5.8pp) se atribuye a la 
+implementación del flujo de emails de carrito abandonado en noviembre 2024.
+
+─────────────────────────────────────────
+7. PROYECCIÓN Q1 2025
+─────────────────────────────────────────
+
+Ventas digitales proyectadas: S/. 1,480,000 – S/. 1,620,000
+(Estacionalidad baja en enero-febrero vs Q4 navideño)
+
+Iniciativas prioritarias:
+- Activar modelo de recomendación personalizado para segmento "Leales"
+- Campaña de reactivación para segmento "En Riesgo" (4,290 clientes)
+- Optimización de ficha de producto para mejorar CVR en categoría Académicos
+- Integración GA4 + BigQuery para análisis de cohortes en tiempo real
+
+Fin del reporte.
